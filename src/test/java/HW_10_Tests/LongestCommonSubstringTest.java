@@ -8,7 +8,7 @@ public class LongestCommonSubstringTest {
 
     @Test
     public void testLongestCommonSubstring() {
-        String s1 = "Smaze";
+        String s1 = "Smazea";
         String s2 = "amazing";
         String s3 = "amazon";
 
